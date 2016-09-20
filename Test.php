@@ -21,7 +21,7 @@ foreach ($students as $key=>$age){
 
 }
 
-echo '<br/>La moyenne = ' .$moyenne;
+echo '<br/>La moyenne d\'âge du groupe est de ' .$moyenne;
 
 
 ?>
