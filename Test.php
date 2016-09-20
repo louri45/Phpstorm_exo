@@ -10,7 +10,7 @@ $students = [
 
  foreach ($students as $key=>$age){
 
-     echo 'nom = ' .$key. ', Age = ' .$age. '<br/>';
+     echo 'Nom = ' .$key. ', Age = ' .$age. '<br/>';
  }
 
 foreach ($students as $key=>$age){
